@@ -1,4 +1,3 @@
-# Scam-Message-Investigator
 # Scam Message Investigator
 
 A Streamlit web application that analyzes suspicious SMS, email, and chat messages for scam indicators using a locally running large language model (LLM). All analysis runs on your own machine through Ollama, so message content is never sent to an external service.
